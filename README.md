@@ -1,8 +1,15 @@
-# Disciplina-Teoria-Macroeconomia-III
+# Disciplina: Teoria Macroeconomia III
+
+## 🌐 Acesse o site da disciplina
+
+➡️ **Clique aqui:**  
+https://rgustavo2017-creator.github.io/Disciplina-Teoria-Macroeconomia-III/
+
+---
 
 ### Prof. Dr. Rodrigo Gustavo de Souza
 
-Universidade Federal do Maranhão, Curso de Ciências Econômicas (CECON/UFMA)
+
 
 Material didático da disciplina Teoria Macroeconômica III
 ---
