@@ -1,8 +1,3 @@
----
-layout: default
-title: "Teoria Macroeconômica III"
----
-
 # Teoria Macroeconômica III
 
 ### Prof. Dr. Rodrigo Gustavo de Souza
