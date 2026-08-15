@@ -35,7 +35,7 @@ Aqui você encontrará
 | Aula 01 | [PDF](aulas/Aula01.pdf) | [R](R/Aula01.R) | [CSV](dados/dados01.csv) |
 | Aula 02 | [PDF](aulas/Aula02.pdf) | [R](R/Aula02.R) | [CSV](dados/dados02.csv) |
 | Aula 03 | [PDF](aulas/Aula03.pdf) | [R](R/Aula03.R) | [CSV](dados/dados03.csv) |
-| Aula 04 | [PDF](aulas/Aula04.pdf) | [R](R/Aula04.R) | [CSV](dados/dados04.csv) |
+
 
 ---
 
